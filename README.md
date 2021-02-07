@@ -1,24 +1,18 @@
-# stocks_tracker
+# Stock Tracker - A simple stock tracking app
 
-## Project setup
-```
-npm install
-```
+## Running the application
+Open this project's directory in a command line
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Run Project: `npm run serve`
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Run Unit Tests: `npm run test:unit`
 
-### Lints and fixes files
-```
-npm run lint
-```
+Build Project: `npm run build`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Framework
+Stock Tracker was built using Vue.js (initialized with the Vue CLI)
+
+## API Info
+This project uses the IEX Cloud API to grab stock prices.
+
+Find more information here: https://iexcloud.io/
